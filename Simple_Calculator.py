@@ -1,7 +1,7 @@
 import streamlit as st
 
 # Title of the app
-st.title("Simple Calculator")
+st.title("Simple Calculator by Uzair")
 
 # Taking float inputs
 num1 = st.number_input("Enter 1st Number:", value=0.0, step=0.1)
